@@ -30,7 +30,7 @@
         "vacay-email": "https://github.com/vacay/email/tarball/0.0.1"
     },
     "devDependencies": {
-        "semver": "2.2.1",
+        "semver": "5.5.0",
         "grunt": "0.4.x",
         "grunt-contrib-jshint": "0.11.x"
     },
