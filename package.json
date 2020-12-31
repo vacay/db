@@ -26,7 +26,7 @@
         "request": "2.72.0",
         "requestretry": "1.7.0",
         "s3": "4.4.0",
-        "urijs": "1.16.1",
+        "urijs": "1.19.4",
         "vacay-email": "https://github.com/vacay/email/tarball/0.0.1"
     },
     "devDependencies": {
