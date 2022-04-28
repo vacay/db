@@ -11,7 +11,7 @@
     "homepage": "http://vacay.io/",
     "licenses": "MIT",
     "dependencies": {
-        "async": "1.5.2",
+        "async": "2.6.4",
         "bcrypt": "1.0.2",
         "bookshelf": "0.10.3",
         "checkit": "0.6.0",
