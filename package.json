@@ -20,7 +20,7 @@
         "jsonwebtoken": "6.2.0",
         "knex": "0.12.7",
         "log": "https://github.com/vacay/log/tarball/0.0.4",
-        "mysql": "2.10.2",
+        "mysql": "2.14.0",
         "parse": "https://api.github.com/repos/vacay/parse/tarball/0.2.25",
         "redis": "2.5.3",
         "request": "2.72.0",
