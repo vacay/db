@@ -17,7 +17,7 @@
         "checkit": "0.6.0",
         "cheerio": "0.20.0",
         "elasticsearch": "11.0.1",
-        "jsonwebtoken": "6.2.0",
+        "jsonwebtoken": "9.0.0",
         "knex": "0.12.7",
         "log": "https://github.com/vacay/log/tarball/0.0.4",
         "mysql": "2.10.2",
